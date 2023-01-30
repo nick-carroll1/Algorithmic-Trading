@@ -10,3 +10,6 @@ B. Dedicated backtesting link: https://www.quantconnect.com/terminal/processCach
 Code: assignment1_B.py
 The backtest makes sense because comparing the prices of each security at the beginning of 2020 and the end of 2020, I expected to lose ~$377,000.00, which is in agreement with the backtest.
 
+C. Dedicated backtesting link: https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_d47466857c883aad4a90e2df4a10c04a.html
+Code assignment1_C.py
+The maximum positions (in whole shares) that this strategy can employ on AMZN and GOOG respectively are -5,956 shares and 4,467 shares.

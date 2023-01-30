@@ -1,0 +1,8 @@
+IDS 690: Algorithmic Trading
+Nick Carroll
+Assignment 1
+
+A. Dedicated backtesting link: https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_f69f055f2232aa9db929cc166ec0d601.html
+Code: assignment1_A.py
+The backtest makes sense because I lost 100,000 of the original value and sold when all of my assets were worth 900,000.
+

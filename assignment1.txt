@@ -6,3 +6,7 @@ A. Dedicated backtesting link: https://www.quantconnect.com/terminal/processCach
 Code: assignment1_A.py
 The backtest makes sense because I lost 100,000 of the original value and sold when all of my assets were worth 900,000.
 
+B. Dedicated backtesting link: https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_a217d36596693d45a4559ae88417e198.html
+Code: assignment1_B.py
+The backtest makes sense because comparing the prices of each security at the beginning of 2020 and the end of 2020, I expected to lose ~$377,000.00, which is in agreement with the backtest.
+
